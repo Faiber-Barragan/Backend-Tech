@@ -3,20 +3,32 @@
 
 ## 🔧 Requirements
 That version or above
-```bash
-$ npm -v
-3.10.10
+```	<properties>
+		<java.version>11</java.version>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
 
-$ ionic -v
-3.12.0
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<scope>runtime</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
 ```
 
 ## 📦 Installation
 ```git
-git clone https://github.com/yoinergomez/dae_hotelz_ionic.git
-cd dae_hotelz_ionic
-npm install
-ionic serve
+
 ```
 
 ## 📝 Documentation
@@ -25,7 +37,7 @@ The web services used in this application are described in https://documenter.ge
 
 ## 💻 Team
 
-| ![https://github.com/Faiber-Barragan](https://avatars.githubusercontent.com/u/61174815?s=400&u=f2d89be9d59531880646203e6fa92c328197d72b&v=4) <br/> [@faiber-barragan](https://github.com/Faiber-Barragan) <br/> Developer | !
+| ![https://github.com/Faiber-Barragan](https://avatars.githubusercontent.com/u/61174815?s=400&u=f2d89be9d59531880646203e6fa92c328197d72b&v=4) <br/> [@faiber-barragan](https://github.com/Faiber-Barragan) <br/> Developer |
 |:-:|
 
 - Faiber Alberto Barragán Vergara:octocat: [@faiber-barrragan](https://github.com/Faiber-Barragan)
