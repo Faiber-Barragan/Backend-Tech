@@ -42,7 +42,7 @@ That version or above
 ```
 gh repo clone Faiber-Barragan/Backend-Tech-Accenture
 Install Spring Tool Suite 4
-Execute proyect
+Execute proyect like Spring Boot App and Java 11 or higher
 
 ```
 
