@@ -1,4 +1,15 @@
-# 🏪Backend-Tech-Accenture🏪
+# 🏪REST API - Tech - Accenture🏪
+*Dado un cliente con la cedula de ciudadanía 12345 y con la dirección carrera 11# 14-08, cuando el cliente selecciona los productos a comprar con un valor mayor de 70.000 pesos entonces el sistema genera la factura con el iva (Impuesto del 19%) y el valor del domicilio.
+
+*Dado un cliente con la cedula de ciudadanía 12345 y con la dirección carrera 11# 14-08, cuando el cliente selecciona los productos a comprar con un valor mayor de 100.000 pesos entonces el sistema genera la factura con el iva (Impuesto del 19%) y el valor del domicilio en 0 pesos.
+
+*Dado que un cliente quiere editar su pedido cuando no han trascurrido más de 5 horas entonces el sistema debe dejarlo editar si los productos seleccionados cuestan igual o más que los anteriores.
+
+*Dado que un cliente quiere agregar a su pedido un nuevo producto cuando el pedido era por valor de 70 mil pesos y al agregar el nuevo producto el pedido pasa de 100 mil pesos entonces el sistema debe de restar el valor del domicilio.
+
+*Dado que un cliente quiere eliminar su pedido cuando no han pasado más de 12 horas entonces el sistema debe dejarlo eliminar.
+
+*Dado que un cliente quiere eliminar su pedido cuando han pasado más de 12 horas entonces el sistema debe de facturarle el 10% del valor del pedido y cancelar el pedido.
 
 
 ## 🔧 Requirements
