@@ -39,7 +39,10 @@ That version or above
 ```
 
 ## 📦 Installation
-```git
+```
+gh repo clone Faiber-Barragan/Backend-Tech-Accenture
+Install Spring Tool Suite 4
+Execute proyect
 
 ```
 
