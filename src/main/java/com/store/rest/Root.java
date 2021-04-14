@@ -12,7 +12,7 @@ public class Root {
 	    return "😄😄😄😄😄 Bienvenido a la API ONLINE STORE 😄😄😄😄😄";
 	}
 	
-	@RequestMapping("/documetacion")
+	@RequestMapping("/documentacion")
 	public ModelAndView redirigirDocumentacion() {
 		return new ModelAndView("redirect:https://documenter.getpostman.com/view/3388013/TzCV4QRt");
 	}
