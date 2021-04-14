@@ -12,6 +12,7 @@
 *Dado que un cliente quiere eliminar su pedido cuando han pasado más de 12 horas entonces el sistema debe de facturarle el 10% del valor del pedido y cancelar el pedido.
 
 
+
 ## 🔧 Requirements
 That version or above
 ```	
@@ -38,6 +39,8 @@ That version or above
 </dependencies>
 ```
 
+
+
 ## 📦 Installation
 ```
 gh repo clone Faiber-Barragan/Backend-Tech-Accenture
@@ -45,14 +48,20 @@ Install Spring Tool Suite 4
 Execute proyect like Spring Boot App and Java 11 or higher
 ```
 
+
+
 ## 📝 Documentation
 
 The web services used in this application are described in https://documenter.getpostman.com/view/3388013/TzCV4QRt
 
 
+
+
 ## 🚀 Deploy
 
 Deploying with Heroku: https://store302.herokuapp.com/
+
+
 
 ## 💻 Team
 
