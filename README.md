@@ -1,4 +1,4 @@
-# 🏪REST API - Tech - Accenture🏪
+# 🏪REST API - Online Store 🏪
 *Dado un cliente con la cedula de ciudadanía 12345 y con la dirección carrera 11# 14-08, cuando el cliente selecciona los productos a comprar con un valor mayor de 70.000 pesos entonces el sistema genera la factura con el iva (Impuesto del 19%) y el valor del domicilio.
 
 *Dado un cliente con la cedula de ciudadanía 12345 y con la dirección carrera 11# 14-08, cuando el cliente selecciona los productos a comprar con un valor mayor de 100.000 pesos entonces el sistema genera la factura con el iva (Impuesto del 19%) y el valor del domicilio en 0 pesos.
